@@ -1,0 +1,5 @@
+include ':swipetabsexample'
+include ':navigationdrawerexample'
+include ':buttonnavigationexample'
+include ':app'
+rootProject.name = "Sesion3Fragments"
